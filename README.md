@@ -111,7 +111,8 @@ Users should be able to:
 
 ### The source code is available at :
 
-https://www.github.com/mkpgtr
+fem-single-page-developer-portfolio-website
+
 
 ## Acknowledgments
 
